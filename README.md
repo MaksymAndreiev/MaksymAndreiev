@@ -52,7 +52,7 @@ I've shared some of the courses from my universities on GitHub.
 
 1. [Intriduction to Numerical Analysis Programming](https://github.com/MaksymAndreiev/MATLAB_KUAS)
 2. [Information Processing 1](https://github.com/MaksymAndreiev/KUAS_Python) (yet private)
-3. [Introduction to Design (Track 2)](https://github.com/MaksymAndreiev/KUASDesignTrack2)
+3. [Introduction to Design (Track 2) - Microcontrollers and Interfacing](https://github.com/MaksymAndreiev/KUASDesignTrack2)
 
 #### 2 year
 
