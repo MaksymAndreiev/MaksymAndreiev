@@ -43,7 +43,7 @@ I've shared some of the courses from my universities on GitHub.
 1. [Diagnostics of Computer Systems](https://github.com/MaksymAndreiev/DataAnalysisCourse)
 2. [Computer Decision Support Systems](https://github.com/MaksymAndreiev/DecisionSupportSystemsCourse)
 3. [Artificial Intelligence Systems](https://github.com/MaksymAndreiev/LogicProgrammingCourse)
-4. Technology of Distributed Systems and Parallel Computing (not uploaded yet)
+4. [Technology of Distributed Systems and Parallel Computing](https://github.com/MaksymAndreiev/DistribSysParallelCompCourse) (yet private)
   </details>
   <details>
     <summary><h3>KUAS</h3></summary>
