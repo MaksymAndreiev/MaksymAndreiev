@@ -35,7 +35,7 @@ I've shared some of the courses from my universities on GitHub.
 3. Microprocessors and Their Applications (not uploaded yet)
 4. Organization of databases and knowledge  (not uploaded yet)
 5. Methods and Technologies of Computer Engineering (not uploaded yet)
-6. Numerical Methods (not uploaded yet)
+6. [Numerical Methods](https://github.com/MaksymAndreiev/NumericalMethodsCourse) (yet private)
 7. [Robotic Systems](https://github.com/MaksymAndreiev/RoboticSystems) (yet private)
 
 #### 4 year
