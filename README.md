@@ -32,11 +32,12 @@ I've shared some of the courses from my universities on GitHub.
 
 1. [Using the Python programming language in in scientific research](https://github.com/MaksymAndreiev/PythonScientificResearchCourse)
 2. System Software (not uploaded yet)
-3. [Microprocessors and Their Applications](https://github.com/MaksymAndreiev/MicroprocessorsCourse) (yet private)
+3. [Microprocessors and Their Applications](https://github.com/MaksymAndreiev/MicroprocessorsCourse)
 4. Organization of databases and knowledge  (not uploaded yet)
 5. Methods and Technologies of Computer Engineering (not uploaded yet)
 6. [Numerical Methods](https://github.com/MaksymAndreiev/NumericalMethodsCourse)
 7. [Robotic Systems](https://github.com/MaksymAndreiev/RoboticSystems) (yet private)
+8. [Computer Architecture](https://github.com/MaksymAndreiev/CompArchCourse)
 
 #### 4 year
 
