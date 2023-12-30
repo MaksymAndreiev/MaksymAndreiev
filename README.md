@@ -4,7 +4,7 @@ My name is Maksym and you are on my GitHub page. My main interests are TinyML, E
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaksymAndreiev&show_icons=true&bg_color=00000000&rank_icon=github&border_color=cc0022&title_color=000001)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=7&size_weight=0.5&count_weight=0.5&border_color=cc0022&title_color=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=8&size_weight=0.5&count_weight=0.5&border_color=cc0022&title_color=000000)
 
 ## Education
 I am a V. N. Karazin Kharkiv National University graduate and current student at Kyoto University of Advanced Science.\
@@ -44,7 +44,7 @@ I've shared some of the courses from my universities on GitHub.
 2. [Computer Decision Support Systems](https://github.com/MaksymAndreiev/DecisionSupportSystemsCourse)
 3. [Artificial Intelligence Systems](https://github.com/MaksymAndreiev/LogicProgrammingCourse)
 4. [Technology of Distributed Systems and Parallel Computing](https://github.com/MaksymAndreiev/DistribSysParallelCompCourse)
-5. [Computer Architecture](https://github.com/MaksymAndreiev/CompArchCourse) (yet private)
+5. [Computer Architecture](https://github.com/MaksymAndreiev/CompArchCourse)
   </details>
   <details>
     <summary><h3>KUAS</h3></summary>
