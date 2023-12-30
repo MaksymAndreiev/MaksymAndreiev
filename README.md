@@ -44,6 +44,7 @@ I've shared some of the courses from my universities on GitHub.
 2. [Computer Decision Support Systems](https://github.com/MaksymAndreiev/DecisionSupportSystemsCourse)
 3. [Artificial Intelligence Systems](https://github.com/MaksymAndreiev/LogicProgrammingCourse)
 4. [Technology of Distributed Systems and Parallel Computing](https://github.com/MaksymAndreiev/DistribSysParallelCompCourse)
+5. [Computer Architecture](https://github.com/MaksymAndreiev/CompArchCourse) (yet private)
   </details>
   <details>
     <summary><h3>KUAS</h3></summary>
