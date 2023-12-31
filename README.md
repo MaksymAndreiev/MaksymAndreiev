@@ -20,7 +20,7 @@ I've shared some of the courses from my universities on GitHub.
 #### 1 year
 
 1. Algorithmization and programming (not uploaded yet)
-2. Object-oriented programming (not uploaded yet)
+2. [Object-oriented programming](https://github.com/MaksymAndreiev/OOPCourse) (yet private)
    
 #### 2 year
 
