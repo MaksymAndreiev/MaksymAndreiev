@@ -27,6 +27,7 @@ I've shared some of the courses from my universities on GitHub.
 1. Application Programming Packages (not uploaded yet)
 2. [Cross-Platform Programming](https://github.com/MaksymAndreiev/CrossPlatformProgCourse)
 3. [Processing the results of the experiment and modeling physical processes in the algorithmic language Python](https://github.com/MaksymAndreiev/PythonPhysicsExperimentsCourse)
+4. [Object-oriented programming](https://github.com/MaksymAndreiev/OOPCourse) (yet private)
 
 #### 3 year
 
