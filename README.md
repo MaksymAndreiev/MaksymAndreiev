@@ -32,7 +32,7 @@ I've shared some of the courses from my universities on GitHub.
 #### 3 year
 
 1. [Using the Python programming language in in scientific research](https://github.com/MaksymAndreiev/PythonScientificResearchCourse)
-2. System Software (not uploaded yet)
+2. [System Software](https://github.com/MaksymAndreiev/MC-SysProgCourse) (yet private)
 3. [Microprocessors and Their Applications](https://github.com/MaksymAndreiev/MicroprocessorsCourse)
 4. Organization of databases and knowledge  (not uploaded yet)
 5. Methods and Technologies of Computer Engineering (not uploaded yet)
