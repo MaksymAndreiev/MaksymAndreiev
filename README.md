@@ -39,7 +39,7 @@ I've shared some of the courses from my universities on GitHub.
 6. [Numerical Methods](https://github.com/MaksymAndreiev/NumericalMethodsCourse)
 7. [Robotic Systems](https://github.com/MaksymAndreiev/RoboticSystems) (yet private)
 8. [Computer Architecture](https://github.com/MaksymAndreiev/CompArchCourse)
-9. Computer Mathematics (not uploaded yet)
+9. [Computer Mathematics](https://github.com/MaksymAndreiev/CompMathCourse) (yet private)
 
 #### 4 year
 
