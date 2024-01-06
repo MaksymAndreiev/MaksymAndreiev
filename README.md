@@ -4,7 +4,7 @@ My name is Maksym and you are on my GitHub page. My main interests are TinyML, E
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaksymAndreiev&show_icons=true&bg_color=00000000&rank_icon=github&theme=shadow_red)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=11&size_weight=0.5&count_weight=0.5&theme=shadow_red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=12&size_weight=0.5&count_weight=0.5&theme=shadow_red)
 
 ## Education
 I am a V. N. Karazin Kharkiv National University graduate and current student at Kyoto University of Advanced Science.\
@@ -32,7 +32,7 @@ I've shared some of the courses from my universities on GitHub.
 #### 3 year
 
 1. [Using the Python programming language in in scientific research](https://github.com/MaksymAndreiev/PythonScientificResearchCourse)
-2. [System Software](https://github.com/MaksymAndreiev/MC-SysProgCourse) (yet private)
+2. [System Software](https://github.com/MaksymAndreiev/MC-SysProgCourse)
 3. [Microprocessors and Their Applications](https://github.com/MaksymAndreiev/MicroprocessorsCourse)
 4. Organization of databases and knowledge  (not uploaded yet)
 5. Methods and Technologies of Computer Engineering (not uploaded yet)
