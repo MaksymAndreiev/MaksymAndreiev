@@ -61,6 +61,7 @@ I've shared some of the courses from my universities on GitHub.
 #### 2 year
 
 1. [Information Processing 2](https://github.com/MaksymAndreiev/KUAS_C) (yet private)
+2. [Machine Shop Practice](https://github.com/MaksymAndreiev/StepperMotor)
     
   </details>
 </details>
