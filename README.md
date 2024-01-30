@@ -6,6 +6,26 @@ My name is Maksym and you are on my GitHub page. My main interests are TinyML, E
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=5&size_weight=0.5&count_weight=0.5&theme=shadow_red)
 
+## Experience
+
+### Experience for Machine Learning
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=15&size_weight=0.5&count_weight=0.5&theme=shadow_red&hide=java,c,assembly,html,css,cmake,makefile,javascript,shell,batchfile,c%2B%2B,g%2Dcode)
+
+### Experience for Electronics
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=15&size_weight=0.5&count_weight=0.5&theme=shadow_red&hide=java,python,html,css,javascript,prolog,matlab)
+
+#### Microcontrollers/microcomputers I have experience with:
+
+| Name | |
+|------|---|
+| Arduino Uno |<img src="https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/e295aac6-a7e6-48ee-9299-e4c48b7144bc" width="25%" height="25%"> <img src="https://github.com/MaksymAndreiev/StepperMotor/assets/29687267/c178a58c-541b-4537-9cf5-3b9273bc8dd7" width="30%" height="30%">|
+| Arduino Mega |<img src="https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/5f6db5d9-3d4e-4527-b5a2-c8addf2feba6" width="25%" height="25%">|
+| Ardino Nano 33 BLE |<img src="https://store-usa.arduino.cc/cdn/shop/products/ABX00030_01.iso_804x603.jpg?v=1626445244" width="25%" height="25%">|
+| STM32F407VGT6 |<img src="https://github.com/MaksymAndreiev/MC-SysProgCourse/assets/29687267/837001e2-1adc-4963-bf8c-91660bd65cbc" width="25%" height="25%"> |
+| NVIDIA Jetson Nano |<img src="https://m.media-amazon.com/images/I/71wJwhzMOsL._AC_SX679_.jpg" width="25%" height="25%">|
+
 ## Education
 I am a V. N. Karazin Kharkiv National University graduate and current student at Kyoto University of Advanced Science.\
 I've shared some of the courses from my universities on GitHub.
