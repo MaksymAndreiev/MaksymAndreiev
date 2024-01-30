@@ -66,9 +66,12 @@ I've shared some of the courses from my universities on GitHub.
   </details>
 </details>
 
-
+<details>
+  <summary><h5>Click here to see full statistics</h5></summary>
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=15&size_weight=0.5&count_weight=0.5&theme=shadow_red)
 
+</details>
 
 
 
