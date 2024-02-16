@@ -6,6 +6,11 @@ My name is Maksym and you are on my GitHub page. My main interests are TinyML, E
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&size_weight=0.5&count_weight=0.5&theme=shadow_red)
 
+## Google Badges
+
+<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8052648"><img src="https://github.com/MaksymAndreiev/MaksymAndreiev/assets/29687267/31269915-a27d-4736-bc36-63db380acebf" width="15%" height="15%"></a>
+
+
 ## Experience
 
 ### Experience for Machine Learning
