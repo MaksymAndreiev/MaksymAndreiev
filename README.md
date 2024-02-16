@@ -13,7 +13,7 @@ My name is Maksym and you are on my GitHub page. My main interests are TinyML, E
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8055721"><img src="https://github.com/MaksymAndreiev/MaksymAndreiev/assets/29687267/d9fe9979-7c7e-4a05-882f-314f8435efe3" width="15%" height="15%"></a>
 ### Skill Badges
 
-<a href="[https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8055721](https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8055813)"><img src="https://github.com/MaksymAndreiev/MaksymAndreiev/assets/29687267/c044a16e-1126-47d6-bd9a-095a23fcbe06" width="20%" height="20%"></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8055813"><img src="https://github.com/MaksymAndreiev/MaksymAndreiev/assets/29687267/c044a16e-1126-47d6-bd9a-095a23fcbe06" width="20%" height="20%"></a>
 ## Experience
 
 ### Experience for Machine Learning
