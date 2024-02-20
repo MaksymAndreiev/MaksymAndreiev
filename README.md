@@ -12,7 +12,7 @@ My name is Maksym and you are on my GitHub page. My main interests are TinyML, E
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8055533"><img src="https://github.com/MaksymAndreiev/MaksymAndreiev/assets/29687267/15065284-d237-484a-9cd6-c34d4735a245" width="15%" height="15%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8055721"><img src="https://github.com/MaksymAndreiev/MaksymAndreiev/assets/29687267/d9fe9979-7c7e-4a05-882f-314f8435efe3" width="15%" height="15%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8070256"><img src="https://github.com/MaksymAndreiev/MaksymAndreiev/assets/29687267/d67c58b7-30f5-4351-a981-d6c003abbf0d" width="15%" height="15%"></a>
-
+<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8091049"><img src="https://cdn.qwiklabs.com/K6z3aTt0vOzi6OQji88x2OglahRN%2FXJjTPqfJh70jDI%3D" width="15%" height="15%"></a>
 ### Skill Badges
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8055813"><img src="https://github.com/MaksymAndreiev/MaksymAndreiev/assets/29687267/c044a16e-1126-47d6-bd9a-095a23fcbe06" width="20%" height="20%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8086363"><img src="https://cdn.qwiklabs.com/BQ94osbb8lz2PrmkD7cDcb9PYjgVeur%2BCLXN%2FoEdfTA%3D" width="20%" height="20%"></a>
