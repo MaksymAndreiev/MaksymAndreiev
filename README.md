@@ -29,11 +29,11 @@ My name is Maksym and you are on my GitHub page. My main interests are TinyML, E
 
 ### Experience for Machine Learning
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=7&size_weight=-0.1&count_weight=1.5&theme=shadow_red&hide=java,c,assembly,html,css,cmake,makefile,javascript,shell,batchfile,c%2B%2B,g%2Dcode)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=6&size_weight=-0.1&count_weight=1.5&theme=shadow_red&hide=java,c,assembly,html,css,cmake,makefile,javascript,shell,batchfile,c%2B%2B,g%2Dcode,vhdl)
 
 ### Experience for Electronics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=15&size_weight=0.5&count_weight=0.5&theme=shadow_red&hide=java,python,html,css,javascript,prolog,matlab,mathematica)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=13&size_weight=0.5&count_weight=0.5&theme=shadow_red&hide=java,python,html,css,javascript,prolog,matlab,mathematica)
 
 #### Microcontrollers/microcomputers I have experience with:
 
@@ -74,7 +74,7 @@ I've shared some of the courses from my universities on GitHub.
 2. [System Software](https://github.com/MaksymAndreiev/MC-SysProgCourse)
 3. [Microprocessors and Their Applications](https://github.com/MaksymAndreiev/MicroprocessorsCourse)
 4. Organization of databases and knowledge  (not uploaded yet)
-5. Methods and Technologies of Computer Engineering (not uploaded yet)
+5. [Methods and Technologies of Computer Engineering](https://github.com/MaksymAndreiev/CompEngineering)
 6. [Numerical Methods](https://github.com/MaksymAndreiev/NumericalMethodsCourse)
 7. [Robotic Systems](https://github.com/MaksymAndreiev/RoboticSystems)
 8. [Computer Architecture](https://github.com/MaksymAndreiev/CompArchCourse)
@@ -108,7 +108,7 @@ I've shared some of the courses from my universities on GitHub.
 <details>
   <summary><h5>Click here to see full statistics</h5></summary>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=17&size_weight=0.5&count_weight=0.5&theme=shadow_red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=18&size_weight=0.5&count_weight=0.5&theme=shadow_red)
 
 </details>
 
