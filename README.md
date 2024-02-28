@@ -23,6 +23,7 @@ My name is Maksym and you are on my GitHub page. My main interests are TinyML, E
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8145438"><img src="https://cdn.qwiklabs.com/sYAJICtzytKNAPHYNvY8Qq1w8Ktwou8iqxfGIC%2BVPGo%3D" width="20%" height="20%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8148247"><img src="https://cdn.qwiklabs.com/YcrnfawPAN5vW%2BVqN1TK6VQTqLgBzoH2IlL3HBq5vME%3D" width="20%" height="20%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8149182"><img src="https://cdn.qwiklabs.com/auOugiHWVlOaRspz7pFwIwYS8VGGj8oW3yHMTWBxdfw%3D" width="20%" height="20%"></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8165738"><img src="https://cdn.qwiklabs.com/TYsbgZP55%2Br0JRwSj7I0KVyycYhxQ9CU5zOn85CHGLM%3D" width="20%" height="20%"></a>
 ### The Arcade
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8154208"><img src="https://cdn.qwiklabs.com/ho2ltDPVVBKeNjPbsXyaCczI03xiarK962039dLEZk0%3D" width="20%" height="20%"></a>
 ## Experience
