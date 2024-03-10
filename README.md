@@ -62,7 +62,7 @@ I've shared some of the courses from my universities on GitHub.
   
 **Caution**: Courses' names may not reflect the content of the course.
 
-  <details>
+<details>
     <summary><h3>Karazin University</h3></summary>
 
 #### 1 year
@@ -96,8 +96,8 @@ I've shared some of the courses from my universities on GitHub.
 3. [Artificial Intelligence Systems](https://github.com/MaksymAndreiev/LogicProgrammingCourse)
 4. [Technology of Distributed Systems and Parallel Computing](https://github.com/MaksymAndreiev/DistribSysParallelCompCourse)
 5. [Computer Architecture](https://github.com/MaksymAndreiev/CompArchCourse)
-  </details>
-  <details>
+</details>
+<details>
     <summary><h3>KUAS</h3></summary>
 
 #### 1 year
@@ -111,7 +111,7 @@ I've shared some of the courses from my universities on GitHub.
 1. [Information Processing 2 - Introduction to C programming](https://github.com/MaksymAndreiev/KUAS_C)
 2. [Machine Shop Practice](https://github.com/MaksymAndreiev/StepperMotor)
     
-  </details>
+</details>
 </details>
 
 <details>
