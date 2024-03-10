@@ -6,6 +6,9 @@ My name is Maksym and you are on my GitHub page. My main interests are TinyML, E
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&size_weight=0.5&count_weight=0.5&theme=shadow_red)
 
+## TensorFlow Developer Certificate
+<a href="https://www.credential.net/34d4d331-b086-4d5b-9080-acd4eb2a9b27#gs.5nmvte"><img src="https://templates.images.credential.net/16589346213183572350230433330388.png" width="15%" height="15%"></a>
+
 ## Google Cloud Badges
 ### Completion Badges
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8052648"><img src="https://github.com/MaksymAndreiev/MaksymAndreiev/assets/29687267/31269915-a27d-4736-bc36-63db380acebf" width="15%" height="15%"></a>
