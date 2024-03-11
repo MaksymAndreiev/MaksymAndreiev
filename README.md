@@ -68,14 +68,14 @@ I've shared some of the courses from my universities on GitHub.
 #### 1 year
 
 1. [Algorithmization and programming](https://github.com/MaksymAndreiev/AlgorithmProgrCourse)
-2. [Object-oriented programming](https://github.com/MaksymAndreiev/OOPCourse) (yet private)
+2. [Object-oriented programming](https://github.com/MaksymAndreiev/OOPCourse/tree/master/1%20semester) (yet private)
    
 #### 2 year
 
 1. [Application Programming Packages](https://github.com/MaksymAndreiev/AppProgrPackagesCourse) (yet private)
 2. [Cross-Platform Programming](https://github.com/MaksymAndreiev/CrossPlatformProgCourse)
 3. [Processing the results of the experiment and modeling physical processes in the algorithmic language Python](https://github.com/MaksymAndreiev/PythonPhysicsExperimentsCourse)
-4. [Object-oriented programming](https://github.com/MaksymAndreiev/OOPCourse) (yet private)
+4. [Object-oriented programming](https://github.com/MaksymAndreiev/OOPCourse/tree/master/2%20semester) (yet private)
 
 #### 3 year
 
