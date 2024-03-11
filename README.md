@@ -4,7 +4,7 @@ My name is Maksym and you are on my GitHub page. My main interests are TinyML, E
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaksymAndreiev&show_icons=true&bg_color=00000000&rank_icon=github&theme=shadow_red)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&size_weight=0.5&count_weight=0.5&theme=shadow_red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=5&size_weight=0.5&count_weight=0.5&theme=shadow_red)
 
 ## TensorFlow Developer Certificate
 <a href="https://www.credential.net/34d4d331-b086-4d5b-9080-acd4eb2a9b27#gs.5nmvte"><img src="https://templates.images.credential.net/16589346213183572350230433330388.png" width="15%" height="15%"></a>
@@ -68,14 +68,14 @@ I've shared some of the courses from my universities on GitHub.
 #### 1 year
 
 1. [Algorithmization and programming](https://github.com/MaksymAndreiev/AlgorithmProgrCourse)
-2. [Object-oriented programming](https://github.com/MaksymAndreiev/OOPCourse/tree/master/1%20semester) (yet private)
+2. [Object-oriented programming](https://github.com/MaksymAndreiev/OOPCourse/tree/master/1%20semester)
    
 #### 2 year
 
 1. [Application Programming Packages](https://github.com/MaksymAndreiev/AppProgrPackagesCourse) (yet private)
 2. [Cross-Platform Programming](https://github.com/MaksymAndreiev/CrossPlatformProgCourse)
 3. [Processing the results of the experiment and modeling physical processes in the algorithmic language Python](https://github.com/MaksymAndreiev/PythonPhysicsExperimentsCourse)
-4. [Object-oriented programming](https://github.com/MaksymAndreiev/OOPCourse/tree/master/2%20semester) (yet private)
+4. [Object-oriented programming](https://github.com/MaksymAndreiev/OOPCourse/tree/master/2%20semester)
 
 #### 3 year
 
@@ -117,7 +117,7 @@ I've shared some of the courses from my universities on GitHub.
 <details>
   <summary><h5>Click here to see full statistics</h5></summary>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=18&size_weight=0.5&count_weight=0.5&theme=shadow_red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=17&size_weight=0.5&count_weight=0.5&theme=shadow_red)
 
 </details>
 
