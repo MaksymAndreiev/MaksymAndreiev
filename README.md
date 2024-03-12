@@ -34,6 +34,7 @@ My name is Maksym and you are on my GitHub page. My main interests are TinyML, E
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8241476"><img src="https://cdn.qwiklabs.com/1soyayVK6uRZfQ6z4x5ahdDjNaI9r7uNjU6sjQIjT7c%3D" width="20%" height="20%"></a>
 ### The Arcade
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8154208"><img src="https://cdn.qwiklabs.com/ho2ltDPVVBKeNjPbsXyaCczI03xiarK962039dLEZk0%3D" width="20%" height="20%"></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8286371"><img src="https://cdn.qwiklabs.com/96cx0twr07Q5TFyUTMbEoRe2UbVVnpGn18GoFEEeA3M%3D" width="20%" height="20%"></a>
 ## Experience
 
 ### Experience for Machine Learning
