@@ -4,7 +4,7 @@ My name is Maksym and you are on my GitHub page. My main interests are TinyML, E
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaksymAndreiev&show_icons=true&bg_color=00000000&rank_icon=github&theme=shadow_red)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=5&size_weight=0.5&count_weight=0.5&theme=shadow_red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&size_weight=0.5&count_weight=0.5&theme=shadow_red)
 
 ## TensorFlow Developer Certificate
 <a href="https://www.credential.net/34d4d331-b086-4d5b-9080-acd4eb2a9b27#gs.5nmvte"><img src="https://templates.images.credential.net/16589346213183572350230433330388.png" width="15%" height="15%"></a>
@@ -104,7 +104,7 @@ I've shared some of the courses from my universities on GitHub.
 
 1. [Intriduction to Numerical Analysis Programming](https://github.com/MaksymAndreiev/MATLAB_KUAS)
 2. [Information Processing 1](https://github.com/MaksymAndreiev/KUAS_Python)
-3. [Introduction to Design (Track 2) - Microcontrollers and Interfacing](https://github.com/MaksymAndreiev/KUASDesignTrack2) (yet private)
+3. [Introduction to Design (Track 2) - Microcontrollers and Interfacing](https://github.com/MaksymAndreiev/KUAS-MC-Systems)
 
 #### 2 year
 
