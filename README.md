@@ -48,7 +48,7 @@ My name is Maksym and you are on my GitHub page. My main interests are TinyML, E
 
 ### Experience for Electronics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=13&size_weight=0.5&count_weight=0.5&theme=shadow_red&hide=java,python,html,css,javascript,prolog,matlab,mathematica)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=14&size_weight=0.5&count_weight=0.5&theme=shadow_red&hide=java,python,html,css,javascript,prolog,matlab,mathematica)
 
 #### Microcontrollers/microcomputers I have experience with:
 
@@ -116,6 +116,7 @@ I've shared some of the courses from my universities on GitHub.
 
 1. [Information Processing 2 - Introduction to C programming](https://github.com/MaksymAndreiev/KUAS_C)
 2. [Machine Shop Practice](https://github.com/MaksymAndreiev/StepperMotor)
+3. [System Programming with C](https://github.com/MaksymAndreiev/KUAS-SysProg)
     
 </details>
 </details>
@@ -123,7 +124,7 @@ I've shared some of the courses from my universities on GitHub.
 <details>
   <summary><h5>Click here to see full statistics</h5></summary>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=17&size_weight=0.5&count_weight=0.5&theme=shadow_red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=18&size_weight=0.5&count_weight=0.5&theme=shadow_red)
 
 </details>
 
