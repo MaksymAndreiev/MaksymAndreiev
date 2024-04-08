@@ -58,7 +58,7 @@ My name is Maksym and you are on my GitHub page. My main interests are TinyML, E
 | Arduino Mega |<img src="https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/5f6db5d9-3d4e-4527-b5a2-c8addf2feba6" width="25%" height="25%">|
 | Ardino Nano 33 BLE |<img src="https://store-usa.arduino.cc/cdn/shop/products/ABX00030_01.iso_804x603.jpg?v=1626445244" width="25%" height="25%">|
 | STM32F407VGT6 |<img src="https://github.com/MaksymAndreiev/MC-SysProgCourse/assets/29687267/837001e2-1adc-4963-bf8c-91660bd65cbc" width="25%" height="25%"> |
-<!-- | Raspberry Pi | <img src="" width="25%" height="25%"> | -->
+| Raspberry Pi | <img src="https://www.switch-science.com/cdn/shop/files/d16e4cea-185a-44ef-8c21-bb83ad2d4e66_a0d3b8e5-1562-4f73-87fa-99caa596e13b_500x500.jpg?v=1711429964" width="25%" height="25%"> |
 <!--  | NVIDIA Jetson Nano |<img src="https://m.media-amazon.com/images/I/71wJwhzMOsL._AC_SX679_.jpg" width="25%" height="25%">| -->
 
 ## Education
