@@ -119,6 +119,7 @@ I've shared some of the courses from my universities on GitHub.
 1. [Information Processing 2 - Introduction to C programming](https://github.com/MaksymAndreiev/KUAS_C)
 2. [Machine Shop Practice](https://github.com/MaksymAndreiev/StepperMotor)
 3. [System Programming with C](https://github.com/MaksymAndreiev/KUAS-SysProg)
+4. [Mechatronics Laboratory (Robot: basic)]()
     
 </details>
 </details>
