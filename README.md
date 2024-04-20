@@ -7,10 +7,13 @@ My name is Maksym and you are on my GitHub page. My main interests are TinyML, E
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&size_weight=0.5&count_weight=0.5&theme=shadow_red)
 
 ## TensorFlow Developer Certificate
+
 <a href="https://www.credential.net/34d4d331-b086-4d5b-9080-acd4eb2a9b27#gs.5nmvte"><img src="https://templates.images.credential.net/16589346213183572350230433330388.png" width="15%" height="15%"></a>
 
 ## Google Cloud Badges
+
 ### Completion Badges
+
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8052648"><img src="https://github.com/MaksymAndreiev/MaksymAndreiev/assets/29687267/31269915-a27d-4736-bc36-63db380acebf" width="15%" height="15%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8055533"><img src="https://github.com/MaksymAndreiev/MaksymAndreiev/assets/29687267/15065284-d237-484a-9cd6-c34d4735a245" width="15%" height="15%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8055721"><img src="https://github.com/MaksymAndreiev/MaksymAndreiev/assets/29687267/d9fe9979-7c7e-4a05-882f-314f8435efe3" width="15%" height="15%"></a>
@@ -19,7 +22,9 @@ My name is Maksym and you are on my GitHub page. My main interests are TinyML, E
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8153826"><img src="https://cdn.qwiklabs.com/iqX3%2BrFEjn%2BZ3EfX9LXPDUfxu6XdEiWuhYF8awUXuO0%3D" width="15%" height="15%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8195434"><img src="https://cdn.qwiklabs.com/5QfpBz%2F7UZfgv%2FeFpDJkNciZHyngwqUUcawrcefgfRE%3D" width="15%" height="15%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8292589"><img src="https://cdn.qwiklabs.com/QCHCLOaeKTV70dXpCvHrPNxAkm6vj76VYR%2BhXQAsnkY%3D" width="15%" height="15%"></a>
+
 ### Skill Badges
+
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8166412"><img src="https://cdn.qwiklabs.com/MFycsU%2BTvFgADPV8BcRX1pPd0cexoKRET9YIXVXtvv8%3D" width="20%" height="20%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8103152"><img src="https://cdn.qwiklabs.com/ODJqvs2dABloW1R5iDRBcjOCc9vDpV7%2Fny6lyTyqxxE%3D" width="20%" height="20%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8148247"><img src="https://cdn.qwiklabs.com/YcrnfawPAN5vW%2BVqN1TK6VQTqLgBzoH2IlL3HBq5vME%3D" width="20%" height="20%"></a>
@@ -33,13 +38,16 @@ My name is Maksym and you are on my GitHub page. My main interests are TinyML, E
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8145438"><img src="https://cdn.qwiklabs.com/sYAJICtzytKNAPHYNvY8Qq1w8Ktwou8iqxfGIC%2BVPGo%3D" width="20%" height="20%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8214365"><img src="https://cdn.qwiklabs.com/xLgyuFGL4mdZkpDEyw%2FMrzX4QoHTIdELDAhkjI4Wx3M%3D" width="20%" height="20%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8241476"><img src="https://cdn.qwiklabs.com/1soyayVK6uRZfQ6z4x5ahdDjNaI9r7uNjU6sjQIjT7c%3D" width="20%" height="20%"></a>
+
 ### The Arcade
+
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8154208"><img src="https://cdn.qwiklabs.com/ho2ltDPVVBKeNjPbsXyaCczI03xiarK962039dLEZk0%3D" width="10%" height="10%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8349032"><img src="https://cdn.qwiklabs.com/wehXsxQTjO5OH7Cd%2FWUhfwldLDaXK6NhMTlf68VQAK4%3D" width="10%" height="10%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8286371"><img src="https://cdn.qwiklabs.com/96cx0twr07Q5TFyUTMbEoRe2UbVVnpGn18GoFEEeA3M%3D" width="10%" height="10%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8424086"><img src="https://cdn.qwiklabs.com/0RJZ5rx4u191PE1B2ptXD0h98ON4kmGoYDRlmrsP8vY%3D" width="10%" height="10%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8492175"><img src="https://cdn.qwiklabs.com/E4cwzpRuZNqNrBg0ODvTTFN%2FLegZeALwo50BEVVWd7s%3D" width="10%" height="10%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8492667"><img src="https://cdn.qwiklabs.com/gfnIcPhq5VNcq7DhjMBkye%2B1isf%2BKFuckNrPLAKGrAI%3D" width="10%" height="10%"></a>
+
 ## Experience
 
 ### Experience for Machine Learning
@@ -52,22 +60,21 @@ My name is Maksym and you are on my GitHub page. My main interests are TinyML, E
 
 #### Microcontrollers/microcomputers I have experience with:
 
-| Name | |
-|------|---|
-| Arduino Uno |<img src="https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/e295aac6-a7e6-48ee-9299-e4c48b7144bc" width="25%" height="25%"> <img src="https://github.com/MaksymAndreiev/StepperMotor/assets/29687267/c178a58c-541b-4537-9cf5-3b9273bc8dd7" width="30%" height="30%">|
-| Arduino Mega |<img src="https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/5f6db5d9-3d4e-4527-b5a2-c8addf2feba6" width="25%" height="25%">|
-| Ardino Nano 33 BLE |<img src="https://store-usa.arduino.cc/cdn/shop/products/ABX00030_01.iso_804x603.jpg?v=1626445244" width="25%" height="25%">|
-| STM32F407VGT6 |<img src="https://github.com/MaksymAndreiev/MC-SysProgCourse/assets/29687267/837001e2-1adc-4963-bf8c-91660bd65cbc" width="25%" height="25%"> |
-| Raspberry Pi 4 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkXhoIvwyN8y0Ik4fnyVrn2G5n_AOBRty2GOINQuIIJqjdLSH5MRbWZ10&s=10" width="25%" height="25%"> |
-<!--  | NUCLEO-F303K8 | <img src="https://akizukidenshi.com/img/goods/L/110172.jpg" width="25%" height="25%"> | -->
-<!--  | NVIDIA Jetson Nano |<img src="https://m.media-amazon.com/images/I/71wJwhzMOsL._AC_SX679_.jpg" width="25%" height="25%">| -->
+| Name               |                                                                                                                                            | Name                                                                                                |                                                                                                                                                           |
+|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Arduino Uno        | <img src="https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/e295aac6-a7e6-48ee-9299-e4c48b7144bc" width="25%" height="25%"> | STM32F407VGT6                                                                                       | <img src="https://github.com/MaksymAndreiev/MC-SysProgCourse/assets/29687267/837001e2-1adc-4963-bf8c-91660bd65cbc" width="25%" height="25%">              |
+| Arduino Mega       | <img src="https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/5f6db5d9-3d4e-4527-b5a2-c8addf2feba6" width="25%" height="25%"> | Raspberry Pi 4                                                                                      | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkXhoIvwyN8y0Ik4fnyVrn2G5n_AOBRty2GOINQuIIJqjdLSH5MRbWZ10&s=10" width="25%" height="25%"> |
+| Ardino Nano 33 BLE | <img src="https://store-usa.arduino.cc/cdn/shop/products/ABX00030_01.iso_804x603.jpg?v=1626445244" width="25%" height="25%">               | NUCLEO-F303K8                                                                                       | <img src="https://akizukidenshi.com/img/goods/L/110172.jpg" width="25%" height="25%">                                                                     |                                                                                                                                                    
+
+[//]: # ( <!--               | NVIDIA Jetson Nano                                                                                                                         | <img src="https://m.media-amazon.com/images/I/71wJwhzMOsL._AC_SX679_.jpg" width="25%" height="25%"> | -->                                                                                                                                                       )
 
 ## Education
+
 I am a V. N. Karazin Kharkiv National University graduate and current student at Kyoto University of Advanced Science.\
 I've shared some of the courses from my universities on GitHub.
 <details>
   <summary><h5>Click here to see universities courses</h5></summary>
-  
+
 **Caution**: Courses' names may not reflect the content of the course.
 
 <details>
@@ -77,7 +84,7 @@ I've shared some of the courses from my universities on GitHub.
 
 1. [Algorithmization and programming](https://github.com/MaksymAndreiev/AlgorithmProgrCourse)
 2. [Object-oriented programming](https://github.com/MaksymAndreiev/OOPCourse/tree/master/1%20semester)
-   
+
 #### 2 year
 
 1. [Application Programming Packages](https://github.com/MaksymAndreiev/AppProgrPackagesCourse) (yet private)
@@ -104,6 +111,7 @@ I've shared some of the courses from my universities on GitHub.
 3. [Artificial Intelligence Systems](https://github.com/MaksymAndreiev/LogicProgrammingCourse)
 4. [Technology of Distributed Systems and Parallel Computing](https://github.com/MaksymAndreiev/DistribSysParallelCompCourse)
 5. [Computer Architecture](https://github.com/MaksymAndreiev/CompArchCourse)
+
 </details>
 <details>
     <summary><h3>KUAS</h3></summary>
@@ -120,32 +128,44 @@ I've shared some of the courses from my universities on GitHub.
 2. [Machine Shop Practice](https://github.com/MaksymAndreiev/StepperMotor)
 3. [System Programming with C](https://github.com/MaksymAndreiev/KUAS-SysProg)
 4. [Mechatronics Laboratory (Robot: basic)]()
-    
+
 </details>
 </details>
 
 <details>
   <summary><h5>Click here to see full statistics</h5></summary>
-  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=18&size_weight=0.5&count_weight=0.5&theme=shadow_red)
 
 </details>
 
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&layout=pie)](https://github.com/MaksymAndreiev/github-readme-stats) -->
+[//]: # (<!-- [![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&layout=pie&#41;]&#40;https://github.com/MaksymAndreiev/github-readme-stats&#41; -->)
 
-<!--
-**MaksymAndreiev/MaksymAndreiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[//]: # ()
+[//]: # (<!--)
 
-Here are some ideas to get you started:
+[//]: # (**MaksymAndreiev/MaksymAndreiev** is a ✨ _special_ ✨ repository because its `README.md` &#40;this file&#41; appears on your GitHub profile.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[//]: # ()
+[//]: # (Here are some ideas to get you started:)
+
+[//]: # ()
+[//]: # (- 🔭 I’m currently working on ...)
+
+[//]: # (- 🌱 I’m currently learning ...)
+
+[//]: # (- 👯 I’m looking to collaborate on ...)
+
+[//]: # (- 🤔 I’m looking for help with ...)
+
+[//]: # (- 💬 Ask me about ...)
+
+[//]: # (- 📫 How to reach me: ...)
+
+[//]: # (- 😄 Pronouns: ...)
+
+[//]: # (- ⚡ Fun fact: ...)
+
+[//]: # (-->)
