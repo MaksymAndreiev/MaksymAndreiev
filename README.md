@@ -4,7 +4,7 @@ My name is Maksym and you are on my GitHub page. My main interests are TinyML, E
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaksymAndreiev&show_icons=true&bg_color=00000000&rank_icon=github&theme=shadow_red)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&size_weight=0.5&count_weight=0.5&theme=shadow_red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&size_weight=0.5&count_weight=0.5&langs_count=5&theme=shadow_red)
 
 ## TensorFlow Developer Certificate
 
@@ -52,11 +52,11 @@ My name is Maksym and you are on my GitHub page. My main interests are TinyML, E
 
 ### Experience for Machine Learning
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=6&size_weight=0.5&count_weight=0.5&theme=shadow_red&hide=java,c,assembly,html,css,cmake,makefile,javascript,shell,batchfile,c%2B%2B,g%2Dcode,vhdl,dockerfile,powershell)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=5&size_weight=0.5&count_weight=0.5&theme=shadow_red&hide=java,c,assembly,html,css,cmake,makefile,javascript,shell,batchfile,c%2B%2B,g%2Dcode,vhdl,dockerfile,powershell)
 
 ### Experience for Electronics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=14&size_weight=0.5&count_weight=0.5&theme=shadow_red&hide=java,python,html,css,javascript,prolog,matlab,mathematica,dockerfile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=14&size_weight=0.5&count_weight=0.5&theme=shadow_red&hide=java,python,html,css,javascript,prolog,matlab,mathematica,dockerfile,jupyter%20notebook)
 
 #### Microcontrollers/microcomputers I have experience with:
 
