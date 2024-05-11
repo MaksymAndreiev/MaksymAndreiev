@@ -6,10 +6,11 @@ innovative solutions at the intersection of hardware and artificial intelligence
 <img src="readme/pattern1.svg" width="100%" alt="">
 <table>
   <tr>
-    <td rowspan="2" colspan="1"><img src="https://github-readme-stats.vercel.app/api?username=MaksymAndreiev&show_icons=true&bg_color=00000000&rank_icon=github&theme=shadow_red" alt="Image 1" width="800px"></td>
+    <td rowspan="3" colspan="1"><img src="https://github-readme-stats.vercel.app/api?username=MaksymAndreiev&show_icons=true&bg_color=00000000&rank_icon=github&theme=shadow_red" alt="Image 1" width="800px"></td>
     <td rowspan="1" colspan="1"><a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRx3WIC3fmfPRy3v3DQP_-eAbfky66QsvnDSpdHIf04A&s" alt="Go to university courses" width="100%"></a></td>
-    <td rowspan="2" colspan="1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&size_weight=0.5&count_weight=0.5&langs_count=5&theme=shadow_red" alt="Image 4" width="350px"></td>
+    <td rowspan="3" colspan="1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&size_weight=0.5&count_weight=0.5&langs_count=5&theme=shadow_red" alt="Image 4" width="350px"></td>
   </tr>
+  <tr></tr>
   <tr>
     <td rowspan="1" colspan="1"><a><img src="https://media.licdn.com/dms/image/C4E0BAQGTt5npGFg8jw/company-logo_200_200/0/1630637048044?e=2147483647&v=beta&t=lELpm0CZFeB2bzgkV7h7XXdo80UzKvH--gR0OV-8p68" width="100%" alt="Go to university courses"></a></td>
   </tr>
@@ -21,14 +22,12 @@ innovative solutions at the intersection of hardware and artificial intelligence
         <td rowspan="5" colspan="4"><img 
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=14&size_weight=0.5&count_weight=0.5&theme=shadow_red&hide=java,python,html,css,javascript,prolog,matlab,mathematica,dockerfile,jupyter%20notebook" 
             width="1000px"></td>
-        <td rowspan="5" colspan="4"><h3>Electronics</h3><br><p>
-            I used to have some experience with electronics. As a Computer Engineering student of Computer Science Department,
-            I had to study electronics, mostly from the scratch: physics laws in Physics course, electric physics and 
-            basics of using oscilloscope in Electronics course, logic gates, flip-flops, counters, registers, etc. in 
-            Circuit Design course, timers, PWM, ADC, DAC, etc. in Microcontrollers course and so on. I also had some 
-            experience with several Arduino boards (using Proteus for simulation), STM32 board (using CubeMX) and some 
-            outdated custom boards from the university, based on Intel 8086 microprocessor. As student of Faculty of
-            Mechanic and Electric Systems Engineering, I also studied physics, electronics, circuits, etc. I also had
+        <td rowspan="5" colspan="4"><h3>Electronics</h3><p>
+            I used to study electronics, mostly from the scratch: physics<br> laws in Physics course, electric physics and 
+            basics of using<br> oscilloscope in Electronics course, logic gates, flip-flops,<br> counters, registers, etc. in 
+            Circuit Design course, timers,<br> PWM, ADC, DAC, etc. in Microcontrollers course and so<br> on. I also had some 
+            experience with several Arduino<br> boards (using Proteus for simulation), STM32 board<br> (using CubeMX) and some 
+            outdated custom boards from the university, based on Intel 8086 microprocessor. I also had
             some hands-on experience with Raspberry Pi, Arduino, ESP32, etc. Got some experience with sensors, soldering,
             circuits, etc. <br>
             I also got some experience with using TinyML on Arduino Nano 33 BLE Sense board and BMP280 sensor for weather
