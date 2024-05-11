@@ -1,8 +1,8 @@
-<h1> Hello there </h1>
-<p> Enthusiastic about the convergence of embedded systems and machine learning. My primary interest lies in EdgeAI, 
-with a specific focus on embedded machine learning technologies like TinyML. I am eager to learn and apply machine 
-learning and computer vision skills to contribute to the industrial domain. Dedicated to exploring new avenues for 
-innovative solutions at the intersection of hardware and artificial intelligence.</p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Glory+to+Ukraine!;Glory+to+the+heroes!&font=Fira%20Code&color=%23BF2E21&center=true&width=280&height=50">
+</p>
+<p> Enthusiastic about the convergence of embedded systems and machine learning. I am eager to learn and apply machine 
+learning and computer vision skills to contribute to the industrial domain. Dedicated to exploring the intersection of hardware and artificial intelligence.</p>
 <img src="readme/pattern1.svg" width="100%" alt="">
 <table>
   <tr>
@@ -293,35 +293,3 @@ I share my solutions of assignments here.</p>
         </td>
     </tr>
 </table>
-
-<h3 align="center"> Google Cloud Platform </h3>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8052648"><img src="https://github.com/MaksymAndreiev/MaksymAndreiev/assets/29687267/31269915-a27d-4736-bc36-63db380acebf" width="7%" height="7%"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8055533"><img src="https://github.com/MaksymAndreiev/MaksymAndreiev/assets/29687267/15065284-d237-484a-9cd6-c34d4735a245" width="7%" height="7%"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8055721"><img src="https://github.com/MaksymAndreiev/MaksymAndreiev/assets/29687267/d9fe9979-7c7e-4a05-882f-314f8435efe3" width="7%" height="7%"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8070256"><img src="https://github.com/MaksymAndreiev/MaksymAndreiev/assets/29687267/d67c58b7-30f5-4351-a981-d6c003abbf0d" width="7%" height="7%"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8091049"><img src="https://cdn.qwiklabs.com/K6z3aTt0vOzi6OQji88x2OglahRN%2FXJjTPqfJh70jDI%3D" width="7%" height="7%"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8153826"><img src="https://cdn.qwiklabs.com/iqX3%2BrFEjn%2BZ3EfX9LXPDUfxu6XdEiWuhYF8awUXuO0%3D" width="7%" height="7%"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8195434"><img src="https://cdn.qwiklabs.com/5QfpBz%2F7UZfgv%2FeFpDJkNciZHyngwqUUcawrcefgfRE%3D" width="7%" height="7%"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8292589"><img src="https://cdn.qwiklabs.com/QCHCLOaeKTV70dXpCvHrPNxAkm6vj76VYR%2BhXQAsnkY%3D" width="7%" height="7%"></a>
-<br>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8166412"><img src="https://cdn.qwiklabs.com/MFycsU%2BTvFgADPV8BcRX1pPd0cexoKRET9YIXVXtvv8%3D" width="10%" height="10%"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8103152"><img src="https://cdn.qwiklabs.com/ODJqvs2dABloW1R5iDRBcjOCc9vDpV7%2Fny6lyTyqxxE%3D" width="10%" height="10%"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8148247"><img src="https://cdn.qwiklabs.com/YcrnfawPAN5vW%2BVqN1TK6VQTqLgBzoH2IlL3HBq5vME%3D" width="10%" height="10%"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8149182"><img src="https://cdn.qwiklabs.com/auOugiHWVlOaRspz7pFwIwYS8VGGj8oW3yHMTWBxdfw%3D" width="10%" height="10%"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8165738"><img src="https://cdn.qwiklabs.com/TYsbgZP55%2Br0JRwSj7I0KVyycYhxQ9CU5zOn85CHGLM%3D" width="10%" height="10%"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8165993"><img src="https://cdn.qwiklabs.com/GU6CgwwDh1bw57WwDUTBc8jexs3fOGXQbGaTqqCrevo%3D" width="10%" height="10%"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8055813"><img src="https://github.com/MaksymAndreiev/MaksymAndreiev/assets/29687267/c044a16e-1126-47d6-bd9a-095a23fcbe06" width="10%" height="10%"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8086363"><img src="https://cdn.qwiklabs.com/BQ94osbb8lz2PrmkD7cDcb9PYjgVeur%2BCLXN%2FoEdfTA%3D" width="10%" height="10%"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8090695"><img src="https://cdn.qwiklabs.com/3YRizadTwpn4OS%2FO0wFW953Fsnkw4xyqvFlQwTxoVpA%3D" width="10%" height="10%"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8091558"><img src="https://cdn.qwiklabs.com/rsSNFQaEBPv%2FEL80wIjPNxuaA%2F3skvC9FgI0yg22NMI%3D" width="10%" height="10%"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8145438"><img src="https://cdn.qwiklabs.com/sYAJICtzytKNAPHYNvY8Qq1w8Ktwou8iqxfGIC%2BVPGo%3D" width="10%" height="10%"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8214365"><img src="https://cdn.qwiklabs.com/xLgyuFGL4mdZkpDEyw%2FMrzX4QoHTIdELDAhkjI4Wx3M%3D" width="10%" height="10%"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8241476"><img src="https://cdn.qwiklabs.com/1soyayVK6uRZfQ6z4x5ahdDjNaI9r7uNjU6sjQIjT7c%3D" width="10%" height="10%"></a>
-<br>
-<img src="readme/pattern4.svg">
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8154208"><img src="https://cdn.qwiklabs.com/ho2ltDPVVBKeNjPbsXyaCczI03xiarK962039dLEZk0%3D" width="10%" height="10%"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8349032"><img src="https://cdn.qwiklabs.com/wehXsxQTjO5OH7Cd%2FWUhfwldLDaXK6NhMTlf68VQAK4%3D" width="10%" height="10%"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8286371"><img src="https://cdn.qwiklabs.com/96cx0twr07Q5TFyUTMbEoRe2UbVVnpGn18GoFEEeA3M%3D" width="10%" height="10%"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8424086"><img src="https://cdn.qwiklabs.com/0RJZ5rx4u191PE1B2ptXD0h98ON4kmGoYDRlmrsP8vY%3D" width="10%" height="10%"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8492175"><img src="https://cdn.qwiklabs.com/E4cwzpRuZNqNrBg0ODvTTFN%2FLegZeALwo50BEVVWd7s%3D" width="10%" height="10%"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8492667"><img src="https://cdn.qwiklabs.com/gfnIcPhq5VNcq7DhjMBkye%2B1isf%2BKFuckNrPLAKGrAI%3D" width="10%" height="10%"></a>
