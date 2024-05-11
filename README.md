@@ -13,12 +13,12 @@ learning and computer vision skills to contribute to the industrial domain. Dedi
 <table>
   <tr>
     <td rowspan="3" colspan="1"><img src="https://github-readme-stats.vercel.app/api?username=MaksymAndreiev&show_icons=true&bg_color=00000000&rank_icon=github&theme=shadow_red" alt="Image 1" width="800px"></td>
-    <td rowspan="1" colspan="1"><picture><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRx3WIC3fmfPRy3v3DQP_-eAbfky66QsvnDSpdHIf04A&s" alt="Go to university courses" width="100%"></picture></td>
+    <td rowspan="1" colspan="1"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRx3WIC3fmfPRy3v3DQP_-eAbfky66QsvnDSpdHIf04A&s" alt="Go to university courses" width="100%"></td>
     <td rowspan="3" colspan="1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&size_weight=0.5&count_weight=0.5&langs_count=5&theme=shadow_red" alt="Image 4" width="350px"></td>
   </tr>
   <tr></tr>
   <tr>
-    <td rowspan="1" colspan="1"><picture><img src="https://media.licdn.com/dms/image/C4E0BAQGTt5npGFg8jw/company-logo_200_200/0/1630637048044?e=2147483647&v=beta&t=lELpm0CZFeB2bzgkV7h7XXdo80UzKvH--gR0OV-8p68" width="100%" alt="Go to university courses"></picture></td>
+    <td rowspan="1" colspan="1"><img src="https://media.licdn.com/dms/image/C4E0BAQGTt5npGFg8jw/company-logo_200_200/0/1630637048044?e=2147483647&v=beta&t=lELpm0CZFeB2bzgkV7h7XXdo80UzKvH--gR0OV-8p68" width="100%" alt="Go to university courses"></td>
   </tr>
 </table>
 <img src="readme/pattern1.svg" width="100%" alt="">
