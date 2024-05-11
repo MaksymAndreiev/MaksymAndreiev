@@ -30,10 +30,6 @@ innovative solutions at the intersection of hardware and artificial intelligence
             outdated custom boards from the university, based on Intel 8086 microprocessor. I also had
             some hands-on experience with Raspberry Pi, Arduino, ESP32, etc. Got some experience with sensors, soldering,
             circuits, etc. <br>
-            I also got some experience with using TinyML on Arduino Nano 33 BLE Sense board and BMP280 sensor for weather
-            prediction system. <br>
-            For university project I used ESP32 board for line following robot.
-            You can see some microcontrollers I have experience with on the right.
         </p></td>
         <td rowspan="1" colspan="1"><img src="https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/e295aac6-a7e6-48ee-9299-e4c48b7144bc" width="500px"></td>
         <td rowspan="1" colspan="1"><img src="https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/5f6db5d9-3d4e-4527-b5a2-c8addf2feba6" width="500px"></td>
@@ -135,7 +131,8 @@ innovative solutions at the intersection of hardware and artificial intelligence
                 </li>
             </ul>
         </td>
-        <td rowspan="3" colspan="1"><img src="https://templates.images.credential.net/16589346213183572350230433330388.png" alt="Image 2" width="300px" height="auto"></td>
+        <td rowspan="3" colspan="1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=5&size_weight=0.5&count_weight=0.5&theme=shadow_red&hide=java,c,assembly,html,css,cmake,makefile,javascript,shell,batchfile,c%2B%2B,g%2Dcode,vhdl,dockerfile,powershell&layout=pie" width="100%"> 
+        </td>
     </tr>
     <tr></tr>
     <tr></tr>
@@ -155,29 +152,6 @@ innovative solutions at the intersection of hardware and artificial intelligence
         </p>
         </td>
     </tr>
-    <tr></tr>
-    <tr></tr>
-    <tr></tr>
-    <tr></tr>
-    <tr></tr>
-    <tr>
-        <td rowspan="3" colspan="1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=5&size_weight=0.5&count_weight=0.5&theme=shadow_red&hide=java,c,assembly,html,css,cmake,makefile,javascript,shell,batchfile,c%2B%2B,g%2Dcode,vhdl,dockerfile,powershell&layout=pie" width="100%"> </td>
-    </tr>
-    <tr></tr>
-    <tr>
-        <td rowspan="2" colspan="1">
-            <h3 align="center">University courses</h3><br>
-            <p>Some courses from university(ies), related to the topic. Contain my own solutions of assignments.</p>
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=DataAnalysisCourse&theme=shadow_red" width="49%">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=LogicProgrammingCourse&theme=shadow_red" width="49%"><br>
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=DecisionSupportSystemsCourse&theme=shadow_red" width="49%">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=PythonPhysicsExperimentsCourse&theme=shadow_red" width="49%"><br>
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=NumericalMethodsCourse&theme=shadow_red" width="49%">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=PythonScientificResearchCourse&theme=shadow_red" width="49%"><br>
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=CompMathCourse&theme=shadow_red" width="49%"><br>
-        </td>
-    </tr>
-    <tr></tr>
 </table>
 
 
