@@ -23,10 +23,10 @@ innovative solutions at the intersection of hardware and artificial intelligence
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=14&size_weight=0.5&count_weight=0.5&theme=shadow_red&hide=java,python,html,css,javascript,prolog,matlab,mathematica,dockerfile,jupyter%20notebook" 
             width="1000px"></td>
         <td rowspan="5" colspan="4"><h3>Electronics</h3><p>
-            I used to study electronics, mostly from the scratch: physics<br> laws in Physics course, electric physics and 
-            basics of using<br> oscilloscope in Electronics course, logic gates, flip-flops,<br> counters, registers, etc. in 
-            Circuit Design course, timers,<br> PWM, ADC, DAC, etc. in Microcontrollers course and so<br> on. I also had some 
-            experience with several Arduino<br> boards (using Proteus for simulation), STM32 board<br> (using CubeMX) and some 
+            I used to study electronics: physics laws in Physics course, electric physics and 
+            basics of using oscilloscope in Electronics course, logic gates, flip-flops, counters, registers, etc. in 
+            Circuit Design course, timers, PWM, ADC, DAC, etc. in Microcontrollers course and so on. I also had some 
+            experience with several Arduino<br> boards (using Proteus for simulation), STM32 board (using CubeMX) and some 
             outdated custom boards from the university, based on Intel 8086 microprocessor. I also had
             some hands-on experience with Raspberry Pi, Arduino, ESP32, etc. Got some experience with sensors, soldering,
             circuits, etc. <br>
