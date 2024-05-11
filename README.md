@@ -140,13 +140,13 @@ innovative solutions at the intersection of hardware and artificial intelligence
     <tr>
         <td rowspan="6" colspan="1"><p>
         <h2>Machine Learning</h2>
-        <p> I am interested in machine learning and computer vision. <br> I have experience with TensorFlow, PyTorch and OpenCV.<br>
-            I am still learning and trying to improve my skills in this<br> field. I am also interested in TinyML and EdgeAI.<br>
-            I have completed several courses in this field and have <br>some certificates. I learned basics of machine learning<br>
-            algorithms, such as linear regression, logistic regression,<br> neural networks, K-means clustering, PCA, SVM. I also<br>
-            learned how to use TensorFlow, using CNN, RNN, LSTM.<br> I have small experience with OpenCV, I used it for<br> detecting
-            system on Raspberry Pi for robot. I also<br> have experience with TinyML, I used TensorFlow Lite for weather prediction
-            system on Arduino Nano 33 BLE Sense. Now I am working on my own project, that includes detecting objects on the
+        <p> I am interested in machine learning and <br>computer vision. I have experience with <br>TensorFlow, PyTorch and OpenCV.
+            I am<br> still learning and trying to improve my<br> skills in this field. I am also interested in<br> TinyML and EdgeAI.<br>
+            I have completed several courses in this<br> field and have some certificates. I learned<br> basics of machine learning
+            algorithms, such as linear regression, logistic regression, neural networks, K-means clustering, PCA, SVM.<br> I also
+            learned how to use TensorFlow, using CNN, RNN, LSTM. I have small experience with OpenCV, I used it for detecting<br>
+            system on Raspberry Pi for robot. I also have experience with TinyML, I used TensorFlow Lite on Arduino Nano 33
+            BLE.<br> Now I am working on my own project, that includes detecting objects on the
             aerial images. <br>
             Still a lot to learn, still need to build more solid knowledge and experience.
         </p>
