@@ -47,7 +47,7 @@ learning and computer vision skills to contribute to the industrial domain. Dedi
     </tr>
     <tr></tr>
     <tr>
-        <td rowspan="1" colspan="1"><<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkXhoIvwyN8y0Ik4fnyVrn2G5n_AOBRty2GOINQuIIJqjdLSH5MRbWZ10&s=10" width="500px"></td>
+        <td rowspan="1" colspan="1"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkXhoIvwyN8y0Ik4fnyVrn2G5n_AOBRty2GOINQuIIJqjdLSH5MRbWZ10&s=10" width="500px"></td>
         <td rowspan="1" colspan="1"><img src="https://akizukidenshi.com/img/goods/L/110172.jpg" width="500px"></td>
     </tr>
 </table>
