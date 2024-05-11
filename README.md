@@ -53,7 +53,7 @@ innovative solutions at the intersection of hardware and artificial intelligence
 <p align="center"><img src="readme/pattern3.svg" alt="" height="100%"></p>
 <table align="center">
     <tr>
-        <td rowspan="8" colspan="1">
+        <td rowspan="9" colspan="1">
             <h3>Courses and Programms</h3>
             <ul>
                 <li>
@@ -139,15 +139,16 @@ innovative solutions at the intersection of hardware and artificial intelligence
     </tr>
     <tr></tr>
     <tr></tr>
+    <tr></tr>
     <tr>
         <td rowspan="6" colspan="1"><p>
         <h2>Machine Learning</h2>
-        <p> I am interested in machine learning and computer vision. I have experience with TensorFlow, PyTorch and OpenCV.
-            I am still learning and trying to improve my skills in this field. I am also interested in TinyML and EdgeAI.<br>
-            I have completed several courses in this field and have some certificates. I learned basics of machine learning
-            algorithms, such as linear regression, logistic regression, neural networks, K-means clustering, PCA, SVM. I also
-            learned how to use TensorFlow, using CNN, RNN, LSTM. I have small experience with OpenCV, I used it for detecting
-            system on Raspberry Pi for robot. I also have experience with TinyML, I used TensorFlow Lite for weather prediction
+        <p> I am interested in machine learning and computer vision. <br> I have experience with TensorFlow, PyTorch and OpenCV.<br>
+            I am still learning and trying to improve my skills in this<br> field. I am also interested in TinyML and EdgeAI.<br>
+            I have completed several courses in this field and have <br>some certificates. I learned basics of machine learning<br>
+            algorithms, such as linear regression, logistic regression,<br> neural networks, K-means clustering, PCA, SVM. I also<br>
+            learned how to use TensorFlow, using CNN, RNN, LSTM.<br> I have small experience with OpenCV, I used it for<br> detecting
+            system on Raspberry Pi for robot. I also<br> have experience with TinyML, I used TensorFlow Lite for weather prediction
             system on Arduino Nano 33 BLE Sense. Now I am working on my own project, that includes detecting objects on the
             aerial images. <br>
             Still a lot to learn, still need to build more solid knowledge and experience.
