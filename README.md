@@ -53,7 +53,7 @@ innovative solutions at the intersection of hardware and artificial intelligence
 <p align="center"><img src="readme/pattern3.svg" alt="" height="100%"></p>
 <table align="center">
     <tr>
-        <td rowspan="9" colspan="1">
+        <td rowspan="10" colspan="1">
             <h3>Courses and Programms</h3>
             <ul>
                 <li>
@@ -159,21 +159,25 @@ innovative solutions at the intersection of hardware and artificial intelligence
     <tr></tr>
     <tr></tr>
     <tr></tr>
+    <tr></tr>
     <tr>
         <td rowspan="3" colspan="1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=5&size_weight=0.5&count_weight=0.5&theme=shadow_red&hide=java,c,assembly,html,css,cmake,makefile,javascript,shell,batchfile,c%2B%2B,g%2Dcode,vhdl,dockerfile,powershell&layout=pie" width="100%"> </td>
     </tr>
+    <tr></tr>
     <tr>
         <td rowspan="2" colspan="1">
-            <h3>University courses</h3><br>
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=DataAnalysisCourse&theme=shadow_red" width="50%"><br>
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=LogicProgrammingCourse&theme=shadow_red" width="50%"><br>
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=DecisionSupportSystemsCourse&theme=shadow_red" width="50%"><br>
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=SPythonPhysicsExperimentsCourse&theme=shadow_red" width="50%"><br>
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=NumericalMethodsCourse&theme=shadow_red" width="50%"><br>
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=PythonScientificResearchCourse&theme=shadow_red" width="50%"><br>
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=CompMathCourse&theme=shadow_red" width="50%"><br>
+            <h3 align="center">University courses</h3><br>
+            <p>Some courses from university(ies), related to the topic. Contain my own solutions of assignments.</p>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=DataAnalysisCourse&theme=shadow_red" width="49%">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=LogicProgrammingCourse&theme=shadow_red" width="49%"><br>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=DecisionSupportSystemsCourse&theme=shadow_red" width="49%">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=PythonPhysicsExperimentsCourse&theme=shadow_red" width="49%"><br>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=NumericalMethodsCourse&theme=shadow_red" width="49%">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=PythonScientificResearchCourse&theme=shadow_red" width="49%"><br>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=CompMathCourse&theme=shadow_red" width="49%"><br>
         </td>
     </tr>
+    <tr></tr>
 </table>
 
 
