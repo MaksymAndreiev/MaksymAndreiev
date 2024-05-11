@@ -42,13 +42,13 @@ learning and computer vision skills to contribute to the industrial domain. Dedi
     </tr>
     <tr></tr>
     <tr>
-        <td rowspan="1" colspan="1"><picture><img src="https://store-usa.arduino.cc/cdn/shop/products/ABX00030_01.iso_804x603.jpg?v=1626445244" width="500px"></picture></td>
-        <td rowspan="1" colspan="1"><picture><img src="https://github.com/MaksymAndreiev/MC-SysProgCourse/assets/29687267/837001e2-1adc-4963-bf8c-91660bd65cbc" width="500px"></picture></td>
+        <td rowspan="1" colspan="1"><img src="https://store-usa.arduino.cc/cdn/shop/products/ABX00030_01.iso_804x603.jpg?v=1626445244" width="500px"></td>
+        <td rowspan="1" colspan="1"><img src="https://github.com/MaksymAndreiev/MC-SysProgCourse/assets/29687267/837001e2-1adc-4963-bf8c-91660bd65cbc" width="500px"></td>
     </tr>
     <tr></tr>
     <tr>
-        <td rowspan="1" colspan="1"><picture><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkXhoIvwyN8y0Ik4fnyVrn2G5n_AOBRty2GOINQuIIJqjdLSH5MRbWZ10&s=10" width="500px"></picture></td>
-        <td rowspan="1" colspan="1"><picture><img src="https://akizukidenshi.com/img/goods/L/110172.jpg" width="500px"></picture></td>
+        <td rowspan="1" colspan="1"><<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkXhoIvwyN8y0Ik4fnyVrn2G5n_AOBRty2GOINQuIIJqjdLSH5MRbWZ10&s=10" width="500px"></td>
+        <td rowspan="1" colspan="1"><img src="https://akizukidenshi.com/img/goods/L/110172.jpg" width="500px"></td>
     </tr>
 </table>
 
