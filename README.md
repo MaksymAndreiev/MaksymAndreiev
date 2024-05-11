@@ -3,7 +3,7 @@
 with a specific focus on embedded machine learning technologies like TinyML. I am eager to learn and apply machine 
 learning and computer vision skills to contribute to the industrial domain. Dedicated to exploring new avenues for 
 innovative solutions at the intersection of hardware and artificial intelligence.</p>
-<img src="pattern1.svg" width="100%" alt="">
+<img src="readme/pattern1.svg" width="100%" alt="">
 <table>
   <tr>
     <td rowspan="2" colspan="1"><img src="https://github-readme-stats.vercel.app/api?username=MaksymAndreiev&show_icons=true&bg_color=00000000&rank_icon=github&theme=shadow_red" alt="Image 1" width="800px"></td>
@@ -14,7 +14,7 @@ innovative solutions at the intersection of hardware and artificial intelligence
     <td rowspan="1" colspan="1"><a><img src="https://media.licdn.com/dms/image/C4E0BAQGTt5npGFg8jw/company-logo_200_200/0/1630637048044?e=2147483647&v=beta&t=lELpm0CZFeB2bzgkV7h7XXdo80UzKvH--gR0OV-8p68" width="100%" alt="Go to university courses"></a></td>
   </tr>
 </table>
-<img src="pattern1.svg" width="100%" alt="">
+<img src="readme/pattern1.svg" width="100%" alt="">
 
 <table>
     <tr>
@@ -51,7 +51,7 @@ innovative solutions at the intersection of hardware and artificial intelligence
     </tr>
 </table>
 
-<p align="center"><img src="pattern3.svg" alt="" height="100%"></p>
+<p align="center"><img src="readme/pattern3.svg" alt="" height="100%"></p>
 <table align="center">
     <tr>
         <td rowspan="8" colspan="1">
@@ -177,7 +177,7 @@ innovative solutions at the intersection of hardware and artificial intelligence
 </table>
 
 
-<img src="pattern2.svg" alt="" width="100%">
+<img src="readme/pattern2.svg" alt="" width="100%">
 
 <h3 align="center"> University Courses </h3>
 <p>I am a V. N. Karazin Kharkiv National University graduate and current student at Kyoto University of Advanced Science.
@@ -338,7 +338,7 @@ I share my solutions of assignments here.</p>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8214365"><img src="https://cdn.qwiklabs.com/xLgyuFGL4mdZkpDEyw%2FMrzX4QoHTIdELDAhkjI4Wx3M%3D" width="20%" height="20%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8241476"><img src="https://cdn.qwiklabs.com/1soyayVK6uRZfQ6z4x5ahdDjNaI9r7uNjU6sjQIjT7c%3D" width="20%" height="20%"></a>
 <br>
-<img src="pattern4.svg">
+<img src="readme/pattern4.svg">
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8154208"><img src="https://cdn.qwiklabs.com/ho2ltDPVVBKeNjPbsXyaCczI03xiarK962039dLEZk0%3D" width="10%" height="10%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8349032"><img src="https://cdn.qwiklabs.com/wehXsxQTjO5OH7Cd%2FWUhfwldLDaXK6NhMTlf68VQAK4%3D" width="10%" height="10%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8286371"><img src="https://cdn.qwiklabs.com/96cx0twr07Q5TFyUTMbEoRe2UbVVnpGn18GoFEEeA3M%3D" width="10%" height="10%"></a>
