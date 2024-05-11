@@ -80,10 +80,10 @@ innovative solutions at the intersection of hardware and artificial intelligence
                     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxIgp7es3xOAQYxuC_4m4YkuxyKfmYE2vmDXpoQBdTw&s" width="3%">
                     Data Science Fundamentals by DataRoot University
                     <a href="https://datarootlabs.com/university/verify/2802bd86096d">Click</a><br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=dru_flask&theme=shadow_red" width="23%">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=dru_snake&theme=shadow_red" width="23%">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=dru_final&theme=shadow_red" width="23%">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=dru_labs&theme=shadow_red" width="23%">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=dru_flask&theme=shadow_red" width="49%">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=dru_snake&theme=shadow_red" width="49%">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=dru_final&theme=shadow_red" width="49%">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=dru_labs&theme=shadow_red" width="49%">
                 </li>
                 <li>
                     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThOtfGefAv3-1i7D-HOREH5FmpCOxANeGrabmVMF_OKA&s" width="3%">
@@ -131,7 +131,7 @@ innovative solutions at the intersection of hardware and artificial intelligence
                 <li>
                     <img src="https://media.licdn.com/dms/image/C4E0BAQF2krChy2MXKg/company-logo_200_200/0/1662466363993/hyperskill_logo?e=2147483647&v=beta&t=Lsl0unr2_6Y5_kN2KOUy-LTv8eXy0y8MCKRnw49AYNI" width="3%">
                     JetBrains Academy (Hyperskill)<br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=JetBrains-Academy&theme=shadow_red" width="25%">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=JetBrains-Academy&theme=shadow_red" width="49%">
                 </li>
             </ul>
         </td>
