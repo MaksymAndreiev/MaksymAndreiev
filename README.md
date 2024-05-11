@@ -3,32 +3,31 @@
 with a specific focus on embedded machine learning technologies like TinyML. I am eager to learn and apply machine 
 learning and computer vision skills to contribute to the industrial domain. Dedicated to exploring new avenues for 
 innovative solutions at the intersection of hardware and artificial intelligence.</p>
-<img src="pattern1.svg" width="100%" alt="">
+<img src="readme/pattern1.svg" width="100%" alt="">
 <table>
   <tr>
-    <td rowspan="2" colspan="1"><img src="https://github-readme-stats.vercel.app/api?username=MaksymAndreiev&show_icons=true&bg_color=00000000&rank_icon=github&theme=shadow_red" alt="Image 1" width="800px"></td>
+    <td rowspan="3" colspan="1"><img src="https://github-readme-stats.vercel.app/api?username=MaksymAndreiev&show_icons=true&bg_color=00000000&rank_icon=github&theme=shadow_red" alt="Image 1" width="800px"></td>
     <td rowspan="1" colspan="1"><a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRx3WIC3fmfPRy3v3DQP_-eAbfky66QsvnDSpdHIf04A&s" alt="Go to university courses" width="100%"></a></td>
-    <td rowspan="2" colspan="1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&size_weight=0.5&count_weight=0.5&langs_count=5&theme=shadow_red" alt="Image 4" width="350px"></td>
+    <td rowspan="3" colspan="1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&size_weight=0.5&count_weight=0.5&langs_count=5&theme=shadow_red" alt="Image 4" width="350px"></td>
   </tr>
+  <tr></tr>
   <tr>
     <td rowspan="1" colspan="1"><a><img src="https://media.licdn.com/dms/image/C4E0BAQGTt5npGFg8jw/company-logo_200_200/0/1630637048044?e=2147483647&v=beta&t=lELpm0CZFeB2bzgkV7h7XXdo80UzKvH--gR0OV-8p68" width="100%" alt="Go to university courses"></a></td>
   </tr>
 </table>
-<img src="pattern1.svg" width="100%" alt="">
+<img src="readme/pattern1.svg" width="100%" alt="">
 
 <table>
     <tr>
         <td rowspan="5" colspan="4"><img 
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=14&size_weight=0.5&count_weight=0.5&theme=shadow_red&hide=java,python,html,css,javascript,prolog,matlab,mathematica,dockerfile,jupyter%20notebook" 
             width="1000px"></td>
-        <td rowspan="5" colspan="4"><h3>Electronics</h3><br><p>
-            I used to have some experience with electronics. As a Computer Engineering student of Computer Science Department,
-            I had to study electronics, mostly from the scratch: physics laws in Physics course, electric physics and 
+        <td rowspan="5" colspan="4"><h3>Electronics</h3><p>
+            I used to study electronics: physics laws in Physics course, electric physics and 
             basics of using oscilloscope in Electronics course, logic gates, flip-flops, counters, registers, etc. in 
             Circuit Design course, timers, PWM, ADC, DAC, etc. in Microcontrollers course and so on. I also had some 
-            experience with several Arduino boards (using Proteus for simulation), STM32 board (using CubeMX) and some 
-            outdated custom boards from the university, based on Intel 8086 microprocessor. As student of Faculty of
-            Mechanic and Electric Systems Engineering, I also studied physics, electronics, circuits, etc. I also had
+            experience with several Arduino<br> boards (using Proteus for simulation), STM32 board (using CubeMX) and some 
+            outdated custom boards from the university, based on Intel 8086 microprocessor. I also had
             some hands-on experience with Raspberry Pi, Arduino, ESP32, etc. Got some experience with sensors, soldering,
             circuits, etc. <br>
             I also got some experience with using TinyML on Arduino Nano 33 BLE Sense board and BMP280 sensor for weather
@@ -51,10 +50,10 @@ innovative solutions at the intersection of hardware and artificial intelligence
     </tr>
 </table>
 
-<p align="center"><img src="pattern3.svg" alt="" height="100%"></p>
+<p align="center"><img src="readme/pattern3.svg" alt="" height="100%"></p>
 <table align="center">
     <tr>
-        <td rowspan="8" colspan="1">
+        <td rowspan="9" colspan="1">
             <h3>Courses and Programms</h3>
             <ul>
                 <li>
@@ -81,10 +80,10 @@ innovative solutions at the intersection of hardware and artificial intelligence
                     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxIgp7es3xOAQYxuC_4m4YkuxyKfmYE2vmDXpoQBdTw&s" width="3%">
                     Data Science Fundamentals by DataRoot University
                     <a href="https://datarootlabs.com/university/verify/2802bd86096d">Click</a><br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=dru_flask&theme=shadow_red" width="23%">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=dru_snake&theme=shadow_red" width="23%">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=dru_final&theme=shadow_red" width="23%">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=dru_labs&theme=shadow_red" width="23%">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=dru_flask&theme=shadow_red" width="49%">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=dru_snake&theme=shadow_red" width="49%">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=dru_final&theme=shadow_red" width="49%">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=dru_labs&theme=shadow_red" width="49%">
                 </li>
                 <li>
                     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThOtfGefAv3-1i7D-HOREH5FmpCOxANeGrabmVMF_OKA&s" width="3%">
@@ -132,7 +131,7 @@ innovative solutions at the intersection of hardware and artificial intelligence
                 <li>
                     <img src="https://media.licdn.com/dms/image/C4E0BAQF2krChy2MXKg/company-logo_200_200/0/1662466363993/hyperskill_logo?e=2147483647&v=beta&t=Lsl0unr2_6Y5_kN2KOUy-LTv8eXy0y8MCKRnw49AYNI" width="3%">
                     JetBrains Academy (Hyperskill)<br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=JetBrains-Academy&theme=shadow_red" width="25%">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=JetBrains-Academy&theme=shadow_red" width="49%">
                 </li>
             </ul>
         </td>
@@ -140,15 +139,16 @@ innovative solutions at the intersection of hardware and artificial intelligence
     </tr>
     <tr></tr>
     <tr></tr>
+    <tr></tr>
     <tr>
         <td rowspan="6" colspan="1"><p>
         <h2>Machine Learning</h2>
-        <p> I am interested in machine learning and computer vision. I have experience with TensorFlow, PyTorch and OpenCV.
-            I am still learning and trying to improve my skills in this field. I am also interested in TinyML and EdgeAI.<br>
-            I have completed several courses in this field and have some certificates. I learned basics of machine learning
-            algorithms, such as linear regression, logistic regression, neural networks, K-means clustering, PCA, SVM. I also
-            learned how to use TensorFlow, using CNN, RNN, LSTM. I have small experience with OpenCV, I used it for detecting
-            system on Raspberry Pi for robot. I also have experience with TinyML, I used TensorFlow Lite for weather prediction
+        <p> I am interested in machine learning and computer vision. <br> I have experience with TensorFlow, PyTorch and OpenCV.<br>
+            I am still learning and trying to improve my skills in this<br> field. I am also interested in TinyML and EdgeAI.<br>
+            I have completed several courses in this field and have <br>some certificates. I learned basics of machine learning<br>
+            algorithms, such as linear regression, logistic regression,<br> neural networks, K-means clustering, PCA, SVM. I also<br>
+            learned how to use TensorFlow, using CNN, RNN, LSTM.<br> I have small experience with OpenCV, I used it for<br> detecting
+            system on Raspberry Pi for robot. I also<br> have experience with TinyML, I used TensorFlow Lite for weather prediction
             system on Arduino Nano 33 BLE Sense. Now I am working on my own project, that includes detecting objects on the
             aerial images. <br>
             Still a lot to learn, still need to build more solid knowledge and experience.
@@ -177,7 +177,7 @@ innovative solutions at the intersection of hardware and artificial intelligence
 </table>
 
 
-<img src="pattern2.svg" alt="" width="100%">
+<img src="readme/pattern2.svg" alt="" width="100%">
 
 <h3 align="center"> University Courses </h3>
 <p>I am a V. N. Karazin Kharkiv National University graduate and current student at Kyoto University of Advanced Science.
@@ -338,7 +338,7 @@ I share my solutions of assignments here.</p>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8214365"><img src="https://cdn.qwiklabs.com/xLgyuFGL4mdZkpDEyw%2FMrzX4QoHTIdELDAhkjI4Wx3M%3D" width="20%" height="20%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8241476"><img src="https://cdn.qwiklabs.com/1soyayVK6uRZfQ6z4x5ahdDjNaI9r7uNjU6sjQIjT7c%3D" width="20%" height="20%"></a>
 <br>
-<img src="pattern4.svg">
+<img src="readme/pattern4.svg">
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8154208"><img src="https://cdn.qwiklabs.com/ho2ltDPVVBKeNjPbsXyaCczI03xiarK962039dLEZk0%3D" width="10%" height="10%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8349032"><img src="https://cdn.qwiklabs.com/wehXsxQTjO5OH7Cd%2FWUhfwldLDaXK6NhMTlf68VQAK4%3D" width="10%" height="10%"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000/badges/8286371"><img src="https://cdn.qwiklabs.com/96cx0twr07Q5TFyUTMbEoRe2UbVVnpGn18GoFEEeA3M%3D" width="10%" height="10%"></a>
