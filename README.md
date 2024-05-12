@@ -7,9 +7,7 @@ learning and computer vision skills to contribute to the industrial domain. Dedi
 </a>
 <a href="https://linkedin.com/in/maksym-andreiev-v"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="3%">
 </a>
-<picture>
-    <img src="readme/pattern1.svg" width="100%" >
-</picture>
+<img src="readme/pattern1.svg" width="100%" >
 <table>
   <tr>
     <td rowspan="3" colspan="1"><img src="https://github-readme-stats.vercel.app/api?username=MaksymAndreiev&show_icons=true&bg_color=00000000&rank_icon=github&theme=shadow_red" alt="Image 1" width="800px"></td>
@@ -160,7 +158,7 @@ learning and computer vision skills to contribute to the industrial domain. Dedi
     </tr>
 </table>
 
-<picture><img src="readme/pattern2.svg" alt="" width="100%"></picture>
+<img src="readme/pattern2.svg" alt="" width="100%">
 
 <h3 align="center"> University Courses </h3>
 <p>I am a V. N. Karazin Kharkiv National University graduate and current student at Kyoto University of Advanced Science.
