@@ -44,8 +44,7 @@ learning and computer vision skills to contribute to the industrial domain. Dedi
         <td rowspan="1" colspan="1"><img src="https://akizukidenshi.com/img/goods/L/110172.jpg" width="50px"></td>
     </tr>
 </table>
-
-<p align="center"><picture><img src="readme/pattern3.svg" alt="" width="50%"></picture></p>
+<img src="readme/pattern1.svg" width="100%" >
 <table align="center">
     <tr>
         <td rowspan="10" colspan="1">
