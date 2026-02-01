@@ -19,31 +19,7 @@ learning and computer vision skills to contribute to the industrial domain. Dedi
     <td rowspan="1" colspan="1"><img src="https://media.licdn.com/dms/image/C4E0BAQGTt5npGFg8jw/company-logo_200_200/0/1630637048044?e=2147483647&v=beta&t=lELpm0CZFeB2bzgkV7h7XXdo80UzKvH--gR0OV-8p68" width="100%" alt="Go to university courses"></td>
   </tr>
 </table>
-<img src="readme/pattern1.svg" width="100%" alt="">
 
-<table>
-    <tr>
-        <td rowspan="5" colspan="4"><img 
-            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=14&size_weight=0.5&count_weight=0.5&theme=shadow_red&hide=java,python,html,css,javascript,prolog,matlab,mathematica,dockerfile,jupyter%20notebook" 
-            width="200px"></td>
-        <td rowspan="5" colspan="4"><h3>Electronics</h3><p>
-            <li>Hands-on experience with: Arduino (Uno, Nano, Mega), STM32, Raspberry Pi, ESP32.</li>
-            <li>Tools: CubeMX, Proteus.</li>
-        </p></td>
-    <td rowspan="1" colspan="1"><picture><img src="https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/e295aac6-a7e6-48ee-9299-e4c48b7144bc" width="50px"></picture></td>
-        <td rowspan="1" colspan="1"><picture><img src="https://github.com/MaksymAndreiev/RoboticSystems/assets/29687267/5f6db5d9-3d4e-4527-b5a2-c8addf2feba6" width="50px"></picture></td>
-    </tr>
-    <tr></tr>
-    <tr>
-        <td rowspan="1" colspan="1"><img src="https://store-usa.arduino.cc/cdn/shop/files/ABX00030_01.iso_934x700.jpg?v=1727102894" width="50px"></td>
-        <td rowspan="1" colspan="1"><img src="https://github.com/MaksymAndreiev/MC-SysProgCourse/assets/29687267/837001e2-1adc-4963-bf8c-91660bd65cbc" width="50px"></td>
-    </tr>
-    <tr></tr>
-    <tr>
-        <td rowspan="1" colspan="1"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkXhoIvwyN8y0Ik4fnyVrn2G5n_AOBRty2GOINQuIIJqjdLSH5MRbWZ10&s=10" width="50px"></td>
-        <td rowspan="1" colspan="1"><img src="https://akizukidenshi.com/img/goods/L/110172.jpg" width="50px"></td>
-    </tr>
-</table>
 <img src="readme/pattern1.svg" width="100%" >
 <table align="center">
     <tr>
@@ -80,7 +56,31 @@ learning and computer vision skills to contribute to the industrial domain. Dedi
         </td>
     </tr>
 </table>
+<img src="readme/pattern1.svg" width="100%" alt="">
 
+<table>
+    <tr>
+        <td rowspan="5" colspan="4"><img 
+            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=14&size_weight=0.5&count_weight=0.5&theme=shadow_red&hide=java,python,html,css,javascript,prolog,matlab,mathematica,dockerfile,jupyter%20notebook" 
+            width="200px"></td>
+        <td rowspan="5" colspan="4"><h3>Embedded</h3><p>
+            <li>Hands-on experience with: Arduino (Uno, Nano, Mega), STM32, Raspberry Pi, ESP32.</li>
+            <li>Tools: CubeMX, Proteus.</li>
+        </p></td>
+    <td rowspan="1" colspan="1"><picture><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/250px-Arduino_Uno_-_R3.jpg" width="50px"></picture></td>
+        <td rowspan="1" colspan="1"><picture><img src="https://www.switch-science.com/cdn/shop/files/8ff7229a-7f97-4796-9656-3693788b105c_1200x1200.jpg?v=1725604737" width="50px"></picture></td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td rowspan="1" colspan="1"><img src="https://store-usa.arduino.cc/cdn/shop/files/ABX00030_01.iso_934x700.jpg?v=1727102894" width="50px"></td>
+        <td rowspan="1" colspan="1"><img src="https://cdn3.botland.com.pl/71265-pdt_540/stm32-nucleo-f411re-stm32f411re-arm-cortex-m4.jpg" width="50px"></td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td rowspan="1" colspan="1"><img src="https://www.switch-science.com/cdn/shop/files/b65f3a1c-c428-4fe2-ad6c-3edeec417817_500x500.jpg?v=1725603730" width="50px"></td>
+        <td rowspan="1" colspan="1"><img src="https://akizukidenshi.com/img/goods/L/110172.jpg" width="50px"></td>
+    </tr>
+</table>
 <img src="readme/pattern2.svg" alt="" width="100%">
 
 <h3 align="center"> University Courses </h3>
@@ -90,141 +90,11 @@ I share my solutions of assignments here.</p>
     <tr>
         <td rowspan="1" colspan="1">
             <h4> Karazin Kharkiv National University </h4>
-            <table align="center">
-                <tr>
-                    <td> 
-                        <details>
-                            <summary>1 year courses</summary>
-                            <table>
-                                <tr>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=AlgorithmProgrCourse&theme=shadow_red" width="200px"></td>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=OOPCourse&theme=shadow_red" width="200px"></td>
-                                </tr>
-                            </table>
-                        </details>
-                    </td>
-                    <td>
-                        <details>
-                            <summary>2 year courses</summary>
-                            <table>
-                                <tr>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=OOPCourse&theme=shadow_red" width="200px"></td>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=CrossPlatformProgCourse&theme=shadow_red" width="200px"></td>
-                                </tr>
-                                <tr>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=PythonPhysicsExperimentsCourse&theme=shadow_red" width="200px"></td>
-                                </tr>
-                            </table>
-                        </details>
-                    </td>
-                </tr>
-                <tr></tr>
-                <tr>
-                    <td>
-                        <details>
-                            <summary>3 year courses</summary>
-                            <table>
-                                <tr>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=PythonScientificResearchCourse&theme=shadow_red" width="200px"></td>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=MC-SysProgCourse&theme=shadow_red" width="200px"></td>
-                                </tr>
-                                <tr>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=MicroprocessorsCourse&theme=shadow_red" width="200px"></td>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=CompEngineering&theme=shadow_red" width="200px"></td>
-                                </tr>
-                                <tr>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=NumericalMethodsCourse&theme=shadow_red" width="200px"></td>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=RoboticSystems&theme=shadow_red" width="200px"></td>
-                                </tr>
-                                <tr>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=CompArchCourse&theme=shadow_red" width="200px"></td>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=CompMathCourse&theme=shadow_red" width="200px"></td>
-                                </tr>
-                            </table>
-                        </details>
-                    </td>
-                    <td> 
-                        <details>
-                            <summary>4 year courses</summary>
-                            <table>
-                                <tr>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=DataAnalysisCourse&theme=shadow_red" width="200px"></td>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=DecisionSupportSystemsCourse&theme=shadow_red" width="200px"></td>
-                                </tr>
-                                <tr>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=LogicProgrammingCourse&theme=shadow_red" width="200px"></td>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=DistribSysParallelCompCourse&theme=shadow_red" width="200px"></td>
-                                </tr>
-                                <tr>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=CompArchCourse&theme=shadow_red" width="200px"></td>
-                                    <td></td>
-                                </tr>
-                            </table>
-                        </details>
-                    </td>
-                </tr>
-            </table>
+            <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=Karazin-University&theme=shadow_red" width="200px">
         </td>
         <td>
             <h4> Kyoto University of Advanced Science </h4>
-            <table>
-                <tr>
-                    <td>
-                        <details>
-                            <summary>1 year courses</summary>
-                            <table>
-                                <tr>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=MATLAB_KUAS&theme=shadow_red" width="200px"></td>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=KUAS_Python&theme=shadow_red" width="200px"></td>
-                                </tr>
-                                <tr>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=KUAS-MC-Systems&theme=shadow_red" width="200px"></td>
-                                    <td></td>
-                                </tr>
-                            </table>
-                        </details>
-                    </td>
-                    <td>
-                        <details>
-                            <summary>2 year courses</summary>
-                            <table>
-                                <tr>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=KUAS_C&theme=shadow_red" width="200px"></td>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=StepperMotor&theme=shadow_red" width="200px"></td>
-                                </tr>
-                                <tr>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=KUAS-SysProg&theme=shadow_red" width="200px"></td>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=KUAS-MechLab&theme=shadow_red" width="200px"></td>
-                                </tr>
-                            </table>
-                        </details>
-                    </td>
-                </tr>
-                <tr></tr>
-                <tr>
-                    <td>
-                        <details>
-                            <summary>3 year courses</summary>
-                            <table>
-                                <tr>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=RWPathDetection&theme=shadow_red" width="200px"></td>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=StepperMotor&theme=shadow_red" width="200px"></td>
-                                </tr>
-                                <tr>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=KUAS-SysProg&theme=shadow_red" width="200px"></td>
-                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=KUAS-MechLab&theme=shadow_red" width="200px"></td>
-                                </tr>
-                            </table>
-                        </details>
-                    </td>
-                    <td>
-                        <details>
-                            <summary>4 year courses</summary>
-                            <p>Not yet</p>
-                        </details>
-                    </td>
-                </tr>
-            </table>
+            <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=KUAS&theme=shadow_red" width="200px">
         </td>
     </tr>
 </table>
