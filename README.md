@@ -10,9 +10,9 @@ learning and computer vision skills to contribute to the industrial domain. Dedi
 <img src="readme/pattern1.svg" width="100%" >
 <table>
   <tr>
-    <td rowspan="3" colspan="1"><img src="https://github-readme-stats.vercel.app/api?username=MaksymAndreiev&show_icons=true&bg_color=00000000&rank_icon=github&theme=shadow_red" alt="Image 1" width="800px"></td>
+    <td rowspan="3" colspan="1"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaksymAndreiev&show_icons=true&bg_color=00000000&rank_icon=github&theme=shadow_red" alt="Image 1" width="800px"></td>
     <td rowspan="1" colspan="1"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRx3WIC3fmfPRy3v3DQP_-eAbfky66QsvnDSpdHIf04A&s" alt="Go to university courses" width="100%"></td>
-    <td rowspan="3" colspan="1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&size_weight=0.5&count_weight=0.5&langs_count=5&theme=shadow_red" alt="Image 4" width="350px"></td>
+    <td rowspan="3" colspan="1"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaksymAndreiev&size_weight=0.5&count_weight=0.5&langs_count=5&theme=shadow_red" alt="Image 4" width="350px"></td>
   </tr>
   <tr></tr>
   <tr>
@@ -24,7 +24,7 @@ learning and computer vision skills to contribute to the industrial domain. Dedi
 <table>
     <tr>
         <td rowspan="5" colspan="4"><img 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=14&size_weight=0.5&count_weight=0.5&theme=shadow_red&hide=java,python,html,css,javascript,prolog,matlab,mathematica,dockerfile,jupyter%20notebook" 
+            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=14&size_weight=0.5&count_weight=0.5&theme=shadow_red&hide=java,python,html,css,javascript,prolog,matlab,mathematica,dockerfile,jupyter%20notebook" 
             width="200px"></td>
         <td rowspan="5" colspan="4"><h3>Electronics</h3><p>
             <li>Hands-on experience with: Arduino (Uno, Nano, Mega), STM32, Raspberry Pi, ESP32.</li>
@@ -55,19 +55,19 @@ learning and computer vision skills to contribute to the industrial domain. Dedi
                     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxIgp7es3xOAQYxuC_4m4YkuxyKfmYE2vmDXpoQBdTw&s" width="3%">
                     Data Science Fundamentals by DataRoot University
                     <a href="https://datarootlabs.com/university/verify/2802bd86096d">Click</a><br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=dru_flask&theme=shadow_red" width="49%">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=dru_snake&theme=shadow_red" width="49%">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=dru_final&theme=shadow_red" width="49%">
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=dru_labs&theme=shadow_red" width="49%">
+                    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=dru_flask&theme=shadow_red" width="49%">
+                    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=dru_snake&theme=shadow_red" width="49%">
+                    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=dru_final&theme=shadow_red" width="49%">
+                    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=dru_labs&theme=shadow_red" width="49%">
                 </li>
                 <li>
                     <img src="https://media.licdn.com/dms/image/C4E0BAQF2krChy2MXKg/company-logo_200_200/0/1662466363993/hyperskill_logo?e=2147483647&v=beta&t=Lsl0unr2_6Y5_kN2KOUy-LTv8eXy0y8MCKRnw49AYNI" width="3%">
                     JetBrains Academy (Hyperskill)<br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=JetBrains-Academy&theme=shadow_red" width="49%">
+                    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=JetBrains-Academy&theme=shadow_red" width="49%">
                 </li>
             </ul>
         </td>
-        <td rowspan="3" colspan="1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=5&size_weight=0.5&count_weight=0.5&theme=shadow_red&hide=java,c,assembly,html,css,cmake,makefile,javascript,shell,batchfile,c%2B%2B,g%2Dcode,vhdl,dockerfile,powershell&layout=pie" width="100%"> 
+        <td rowspan="3" colspan="1"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaksymAndreiev&langs_count=5&size_weight=0.5&count_weight=0.5&theme=shadow_red&hide=java,c,assembly,html,css,cmake,makefile,javascript,shell,batchfile,c%2B%2B,g%2Dcode,vhdl,dockerfile,powershell&layout=pie" width="100%"> 
         </td>
     </tr>
     <tr></tr>
@@ -98,8 +98,8 @@ I share my solutions of assignments here.</p>
                             <summary>1 year courses</summary>
                             <table>
                                 <tr>
-                                    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=AlgorithmProgrCourse&theme=shadow_red" width="200px"></td>
-                                    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=OOPCourse&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=AlgorithmProgrCourse&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=OOPCourse&theme=shadow_red" width="200px"></td>
                                 </tr>
                             </table>
                         </details>
@@ -109,11 +109,11 @@ I share my solutions of assignments here.</p>
                             <summary>2 year courses</summary>
                             <table>
                                 <tr>
-                                    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=OOPCourse&theme=shadow_red" width="200px"></td>
-                                    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=CrossPlatformProgCourse&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=OOPCourse&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=CrossPlatformProgCourse&theme=shadow_red" width="200px"></td>
                                 </tr>
                                 <tr>
-                                    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=PythonPhysicsExperimentsCourse&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=PythonPhysicsExperimentsCourse&theme=shadow_red" width="200px"></td>
                                 </tr>
                             </table>
                         </details>
@@ -126,20 +126,20 @@ I share my solutions of assignments here.</p>
                             <summary>3 year courses</summary>
                             <table>
                                 <tr>
-                                    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=PythonScientificResearchCourse&theme=shadow_red" width="200px"></td>
-                                    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=MC-SysProgCourse&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=PythonScientificResearchCourse&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=MC-SysProgCourse&theme=shadow_red" width="200px"></td>
                                 </tr>
                                 <tr>
-                                    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=MicroprocessorsCourse&theme=shadow_red" width="200px"></td>
-                                    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=CompEngineering&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=MicroprocessorsCourse&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=CompEngineering&theme=shadow_red" width="200px"></td>
                                 </tr>
                                 <tr>
-                                    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=NumericalMethodsCourse&theme=shadow_red" width="200px"></td>
-                                    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=RoboticSystems&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=NumericalMethodsCourse&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=RoboticSystems&theme=shadow_red" width="200px"></td>
                                 </tr>
                                 <tr>
-                                    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=CompArchCourse&theme=shadow_red" width="200px"></td>
-                                    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=CompMathCourse&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=CompArchCourse&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=CompMathCourse&theme=shadow_red" width="200px"></td>
                                 </tr>
                             </table>
                         </details>
@@ -149,15 +149,15 @@ I share my solutions of assignments here.</p>
                             <summary>4 year courses</summary>
                             <table>
                                 <tr>
-                                    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=DataAnalysisCourse&theme=shadow_red" width="200px"></td>
-                                    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=DecisionSupportSystemsCourse&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=DataAnalysisCourse&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=DecisionSupportSystemsCourse&theme=shadow_red" width="200px"></td>
                                 </tr>
                                 <tr>
-                                    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=LogicProgrammingCourse&theme=shadow_red" width="200px"></td>
-                                    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=DistribSysParallelCompCourse&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=LogicProgrammingCourse&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=DistribSysParallelCompCourse&theme=shadow_red" width="200px"></td>
                                 </tr>
                                 <tr>
-                                    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=CompArchCourse&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=CompArchCourse&theme=shadow_red" width="200px"></td>
                                     <td></td>
                                 </tr>
                             </table>
@@ -175,11 +175,11 @@ I share my solutions of assignments here.</p>
                             <summary>1 year courses</summary>
                             <table>
                                 <tr>
-                                    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=MATLAB_KUAS&theme=shadow_red" width="200px"></td>
-                                    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=KUAS_Python&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=MATLAB_KUAS&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=KUAS_Python&theme=shadow_red" width="200px"></td>
                                 </tr>
                                 <tr>
-                                    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=KUAS-MC-Systems&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=KUAS-MC-Systems&theme=shadow_red" width="200px"></td>
                                     <td></td>
                                 </tr>
                             </table>
@@ -190,12 +190,12 @@ I share my solutions of assignments here.</p>
                             <summary>2 year courses</summary>
                             <table>
                                 <tr>
-                                    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=KUAS_C&theme=shadow_red" width="200px"></td>
-                                    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=StepperMotor&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=KUAS_C&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=StepperMotor&theme=shadow_red" width="200px"></td>
                                 </tr>
                                 <tr>
-                                    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=KUAS-SysProg&theme=shadow_red" width="200px"></td>
-                                    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=KUAS-MechLab&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=KUAS-SysProg&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=KUAS-MechLab&theme=shadow_red" width="200px"></td>
                                 </tr>
                             </table>
                         </details>
@@ -206,7 +206,16 @@ I share my solutions of assignments here.</p>
                     <td>
                         <details>
                             <summary>3 year courses</summary>
-                            <p>Not yet</p>
+                            <table>
+                                <tr>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=RWPathDetection&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=StepperMotor&theme=shadow_red" width="200px"></td>
+                                </tr>
+                                <tr>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=KUAS-SysProg&theme=shadow_red" width="200px"></td>
+                                    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MaksymAndreiev&repo=KUAS-MechLab&theme=shadow_red" width="200px"></td>
+                                </tr>
+                            </table>
                         </details>
                     </td>
                     <td>
