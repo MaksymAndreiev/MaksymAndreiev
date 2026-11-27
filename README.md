@@ -1,8 +1,7 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Glory+to+Ukraine!;Glory+to+the+heroes!&font=Fira%20Code&color=%23BF2E21&center=true&width=280&height=50">
 </p>
-<p> Enthusiastic about the convergence of embedded systems and machine learning. I am eager to learn and apply machine 
-learning and computer vision skills to contribute to the industrial domain. Dedicated to exploring the intersection of hardware and artificial intelligence.</p>
+<p>AI engineer based in Japan, working on LLM agents, machine learning and computer vision. I build practical AI systems and take them from prototype to real use, from LLM-based applications on Google Cloud to vision models for industrial inspection. I am especially passionate about the intersection of hardware and artificial intelligence, bringing ML to embedded devices.</p>
 <a href="https://www.cloudskillsboost.google/public_profiles/0898f961-1bbf-4cab-90fa-97ef1ad6f000"><img src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" width="3%">
 </a>
 <a href="https://linkedin.com/in/maksym-andreiev-v"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="3%">
@@ -31,7 +30,7 @@ learning and computer vision skills to contribute to the industrial domain. Dedi
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=dru_labs&theme=shadow_red" width="49%">
                 </li>
                 <li>
-                    <img src="https://media.licdn.com/dms/image/C4E0BAQF2krChy2MXKg/company-logo_200_200/0/1662466363993/hyperskill_logo?e=2147483647&v=beta&t=Lsl0unr2_6Y5_kN2KOUy-LTv8eXy0y8MCKRnw49AYNI" width="3%">
+                    <img src="https://hyperskill.org/static/favicons/icon-512.png" width="3%">
                     JetBrains Academy (Hyperskill)<br>
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaksymAndreiev&repo=JetBrains-Academy&theme=shadow_red" width="49%">
                 </li>
@@ -79,8 +78,7 @@ learning and computer vision skills to contribute to the industrial domain. Dedi
 <img src="readme/pattern2.svg" alt="" width="100%">
 
 <h3 align="center"> University Courses </h3>
-<p>I am a V. N. Karazin Kharkiv National University graduate and current student at Kyoto University of Advanced Science.
-I share my solutions of assignments here.</p>
+<p>I graduated from V. N. Karazin Kharkiv National University (Computer Engineering) and Kyoto University of Advanced Science (Electrical and Mechanical Systems Engineering). Here I share my solutions to university assignments.</p>
 <table>
     <tr>
         <td rowspan="1" colspan="1">
